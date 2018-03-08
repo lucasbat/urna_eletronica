@@ -1,3 +1,3 @@
 # urna_eletronica
 
-urna_eletronica é um software que siumula uma urna eletronica de votacao. 
+Este é um software escrito em C++ que simula uma urna eletronica de votacao. 
